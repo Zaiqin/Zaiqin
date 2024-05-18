@@ -1,15 +1,6 @@
 <h3>👋 Hi there, I am Zai Qin!</h3>
 <h4>I am passionate about software engineering and development. Creating software and coding began as a hobby and eventually became my passion as I learnt more and delved deeper into the field. I have experience in Full Stack Development using the MERN stack, Backend development using Firebase, MySQL and also Mobile Game Development using Unity and C#.</h4>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaiqin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Zaiqin&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zaiqin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app?username=Zaiqin&no-bg=true&theme=onedark&column=3&row=1&no-frame=true" height="130" alt="trophy graph"  />
-</div>
-
 <div align="center">
 
 ## 📊 Programming & Hardware Languages
@@ -116,4 +107,13 @@
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" width="48px" height="48px" alt="Assembly Icon" /></td>
   </tr>
 </table>
+</div>
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaiqin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Zaiqin&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zaiqin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app?username=Zaiqin&no-bg=true&theme=onedark&column=3&row=1&no-frame=true" height="130" alt="trophy graph"  />
 </div>
