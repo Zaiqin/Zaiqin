@@ -24,6 +24,7 @@
     <th>JavaScript</th>
     <th>Java</th>
     <th>Python</th>
+    <th>Swift</th>
     <th>Assembly</th>
     <th>Verilog</th>
   </tr>
@@ -36,6 +37,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=py&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=swift&theme=dark"></td>
     <td align="center"><img src="https://static-00.iconduck.com/assets.00/assembly-icon-2048x2048-wspx42mf.png" width="48px" height="48px" alt="Assembly Icon" /></td>
     <td align="center"><img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-256x256-goe8p7qm.png" width="48px" height="48px" alt="Assembly Icon" /></td>
 </tr>
@@ -100,6 +102,7 @@
     <th>Postman</th>
     <th>Unity</th>
     <th>MySQL Workbench</th>
+    <th>Xcode</th>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark"></td>
@@ -110,6 +113,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=postman&theme=dark"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=unity&theme=dark"></td>
     <td align="center"><img src="https://static-00.iconduck.com/assets.00/mysqlworkbench-icon-1024x1014-nnvsz83e.png" width="50px" height="50px" alt="Assembly Icon" /></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" width="48px" height="48px" alt="Assembly Icon" /></td>
   </tr>
 </table>
 </div>
