@@ -10,29 +10,108 @@
   <img src="https://github-profile-trophy.vercel.app?username=Zaiqin&no-bg=true&theme=onedark&column=3&row=1&no-frame=true" height="130" alt="trophy graph"  />
 </div>
 
-## 📊 Programming Languages and Technologies
+<div align="center">
+
+## 📊 Programming & Hardware Languages
 
 <table>
   <tr>
     <th>C</th>
     <th>C++</th>
     <th>C#</th>
-    <th>HTML5</th>
-    <th>CSS3</th>
+    <th>HTML</th>
+    <th>CSS</th>
     <th>JavaScript</th>
     <th>Java</th>
     <th>Python</th>
     <th>Assembly</th>
+    <th>Verilog</th>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></td>
-    <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
-    <td><img src="https://img.shields.io/badge/Assembly-black?style=for-the-badge&logoColor=white"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cs&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py&theme=dark"></td>
+    <td align="center"><img src="https://static-00.iconduck.com/assets.00/assembly-icon-2048x2048-wspx42mf.png" width="48px" height="48px" alt="Assembly Icon" /></td>
+    <td align="center"><img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-256x256-goe8p7qm.png" width="48px" height="48px" alt="Assembly Icon" /></td>
+</tr>
+</table>
+
+
+## 📊 Technologies
+<div align="center">
+
+### Web Technologies
+<table>
+  <tr>
+    <th>React</th>
+    <th>Vite</th>
+    <th>Material UI</th>
+    <th>Tailwind CSS</th>
+    <th>Firebase</th>
+    <th>Vercel</th>
+    <th>Express</th>
+    <th>Node.js</th>
+    <th>Vite</th>
+    <th>MongoDB</th>
+    <th>MySQL</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vite&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mui&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vite&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongo&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark"></td>
   </tr>
 </table>
+
+### Machine Learning & Data Science
+<table>
+  <tr>
+    <th>Pandas</th>
+    <th>Matplotlib</th>
+    <th>Scikit-Learn</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://pandas.pydata.org//static/img/favicon_white.ico" width="48px" height="48px" alt="Assembly Icon" /></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" width="48px" height="48px" alt="Assembly Icon" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark"></td>
+  </tr>
+</table>
+
+</div>
+
+## 📊 Software Applications
+<table>
+  <tr>
+    <th>Anaconda</th>
+    <th>Adobe Photoshop</th>
+    <th>Blender</th>
+    <th>VSCode</th>
+    <th>Github Desktop</th>
+    <th>Postman</th>
+    <th>Unity</th>
+    <th>MySQL Workbench</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=photoshop&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=blender&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark"></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="50px" height="50px" alt="Assembly Icon" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman&theme=dark"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=unity&theme=dark"></td>
+    <td align="center"><img src="https://static-00.iconduck.com/assets.00/mysqlworkbench-icon-1024x1014-nnvsz83e.png" width="50px" height="50px" alt="Assembly Icon" /></td>
+  </tr>
+</table>
+</div>
