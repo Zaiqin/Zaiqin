@@ -56,7 +56,6 @@
     <th>Vercel</th>
     <th>Express</th>
     <th>Node.js</th>
-    <th>Vite</th>
     <th>MongoDB</th>
     <th>MySQL</th>
   </tr>
@@ -69,7 +68,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel&theme=dark"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vite&theme=dark"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongo&theme=dark"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark"></td>
   </tr>
