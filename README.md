@@ -1,5 +1,5 @@
-<h3>👋 Hi there, I am Zai Qin!</h3>
-<h4>I am passionate about software engineering and development. Creating software and coding began as a hobby and eventually became my passion as I learnt more and delved deeper into the field. I have experience in Full Stack Development using the MERN stack, Backend development using Firebase, MySQL and also Mobile Game Development using Unity and C#.</h4>
+<h2>👋 Hi there, I am Zai Qin!</h2>
+<h3>I am passionate about software engineering and development. Creating software and coding began as a hobby and eventually became my passion as I learnt more and delved deeper into the field. I have experience in Full Stack Development using the MERN stack, Backend development using Firebase, MySQL and also Mobile Game Development using Unity and C#.</h3>
 
 <div align="center">
 
