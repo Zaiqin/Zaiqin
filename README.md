@@ -6,9 +6,9 @@
 
 <table>
   <tr>
-    <th>C</th>
+    <th>&nbsp;C&nbsp;</th>
     <th>C++</th>
-    <th>C#</th>
+    <th>&nbsp;C#&nbsp;</th>
     <th>HTML</th>
     <th>CSS</th>
     <th>JavaScript</th>
