@@ -12,6 +12,7 @@
     <th>HTML</th>
     <th>CSS</th>
     <th>JavaScript</th>
+    <th>TypeScript</th>
     <th>Java</th>
     <th>Python</th>
     <th>Swift</th>
@@ -25,6 +26,7 @@
     <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></td>
+    <td><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
     <td><img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></td>
@@ -38,11 +40,12 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="32px" height="32px"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=swift&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://static-00.iconduck.com/assets.00/assembly-icon-2048x2048-wspx42mf.png" width="32px" height="32px" alt="Assembly Icon" /></td>
-    <td align="center"><img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-256x256-goe8p7qm.png" width="32px" height="32px" alt="Assembly Icon" /></td>
+    <td align="center"><img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-256x256-goe8p7qm.png" width="32px" height="32px" alt="Verilog Icon" /></td>
 </tr>
 </table>
 
@@ -104,8 +107,8 @@
     <td><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://pandas.pydata.org//static/img/favicon_white.ico" width="32px" height="32px" alt="Assembly Icon" /></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" width="32px" height="32px" alt="Assembly Icon" /></td>
+    <td align="center"><img src="https://pandas.pydata.org//static/img/favicon_white.ico" width="32px" height="32px" alt="Pandas Icon" /></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" width="32px" height="32px" alt="Matplotlib Icon" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="32px" height="32px"></td>
   </tr>
 </table>
@@ -146,7 +149,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=unity&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://static-00.iconduck.com/assets.00/mysqlworkbench-icon-1024x1014-nnvsz83e.png" width="34px" height="34px"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="32px" height="32px"></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" width="34px" height="34px" alt="Assembly Icon" /></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" width="34px" height="34px" alt="Xcode Icon" /></td>
   </tr>
 </table>
 
