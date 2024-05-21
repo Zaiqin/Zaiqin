@@ -55,6 +55,7 @@
 <table>
   <tr>
     <th>React</th>
+    <th>Angular</th>
     <th>Vite</th>
     <th>Material UI</th>
     <th>Tailwind CSS</th>
@@ -68,6 +69,7 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>
+    <td><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></td>
@@ -81,6 +83,7 @@
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="32px" height="32px"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mui&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="32px" height="32px"></td>
