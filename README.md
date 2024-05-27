@@ -60,6 +60,7 @@
     <th>Angular</th>
     <th>Vite</th>
     <th>Bootstrap</th>
+    <th>Next.js</th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>
@@ -68,6 +69,7 @@
     <td><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="32px" height="32px"></td>
@@ -76,6 +78,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="32px" height="32px"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="32px" height="32px"></td>
   </tr>
 </table>
 <table>
