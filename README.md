@@ -55,10 +55,31 @@
 <table>
   <tr>
     <th>React</th>
-    <th>Angular</th>
-    <th>Vite</th>
     <th>Material UI</th>
     <th>Tailwind CSS</th>
+    <th>Angular</th>
+    <th>Vite</th>
+    <th>Bootstrap</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>
+    <td><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="32px" height="32px"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mui&theme=dark" width="32px" height="32px"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="32px" height="32px"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="32px" height="32px"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="32px" height="32px"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="32px" height="32px"></td>
+  </tr>
+</table>
+<table>
+  <tr>
     <th>Firebase</th>
     <th>Vercel</th>
     <th>Express</th>
@@ -68,11 +89,6 @@
     <th>PostgresSQL</th>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>
-    <td><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></td>
     <td><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFBe"></td>
@@ -82,11 +98,6 @@
     <td><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="32px" height="32px"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="32px" height="32px"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="32px" height="32px"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mui&theme=dark" width="32px" height="32px"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="32px" height="32px"></td>
