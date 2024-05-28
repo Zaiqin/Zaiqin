@@ -54,11 +54,11 @@
 ### 🌐 Web Technologies
 <table>
   <tr>
-    <th>React</th>
+    <th>React.js</th>
     <th>Material UI</th>
     <th>Tailwind CSS</th>
-    <th>Angular</th>
     <th>Vite</th>
+    <th>Angular</th>
     <th>Bootstrap</th>
     <th>Next.js</th>
   </tr>
@@ -66,8 +66,8 @@
     <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>
     <td><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></td>
   </tr>
@@ -75,8 +75,8 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mui&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="32px" height="32px"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="32px" height="32px"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="32px" height="32px"></td>
   </tr>
@@ -85,7 +85,7 @@
   <tr>
     <th>Firebase</th>
     <th>Vercel</th>
-    <th>Express</th>
+    <th>Express.js</th>
     <th>Node.js</th>
     <th>MongoDB</th>
     <th>MySQL</th>
@@ -133,6 +133,7 @@
 ## 🖥 Software Applications
 <table>
   <tr>
+    <th>&nbsp;&nbsp;Jira&nbsp;&nbsp;</th>
     <th>Anaconda</th>
     <th>Adobe Photoshop</th>
     <th>Blender</th>
@@ -145,6 +146,7 @@
     <th>Xcode</th>
   </tr>
   <tr>
+    <td><img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></td>
@@ -157,6 +159,7 @@
     <td><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" width="30px" height="30px"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=photoshop&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=blender&theme=dark" width="32px" height="32px"></td>
