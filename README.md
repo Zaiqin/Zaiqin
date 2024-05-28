@@ -133,7 +133,7 @@
 ## 🖥 Software Applications
 <table>
   <tr>
-    <th>&nbsp;&nbsp;Jira&nbsp;&nbsp;</th>
+    <th>&nbsp;Jira&nbsp;</th>
     <th>Anaconda</th>
     <th>Adobe Photoshop</th>
     <th>Blender</th>
