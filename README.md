@@ -181,7 +181,6 @@
   <br />
   <img src="https://github-profile-trophy.vercel.app?username=Zaiqin&no-bg=true&theme=onedark&column=3&row=1&no-frame=true" height="130" alt="trophy graph"  />
   <br />
-  <img alt="Zaiqin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Zaiqin&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="300"/>
 </div>
 
 ###
