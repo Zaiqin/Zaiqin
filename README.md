@@ -130,10 +130,37 @@
   </tr>
 </table>
 
+### ☁️ Cloud & DevOps
+<table>
+  <tr>
+    <th>AWS</th>
+    <th>Azure</th>
+    <th>Firebase</th>
+    <th>Vercel</th>
+    <th>Jira</th>
+    <th>Confluence</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></td>
+    <td><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="32px" height="32px"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="32px" height="32px"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="32px" height="32px"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="32px" height="32px"></td>
+    <td align="center"><img src="https://cdn.prod.website-files.com/65e6e631043753dc52abb52a/67ecf1f8e439dc9faaa06bb6_65eb31ce23f4581d2842b123_icon%253Djira.png" width="32px" height="32px"></td>
+    <td align="center"><img src="https://play-lh.googleusercontent.com/-aex9dK8-hchgNFf5lsMCy0_9sl6kK_JIS4nh-6p3_NG9w2BwASOTRsNg-tgnONg8Q" width="32px" height="32px"></td>
+  </tr>
+</table>
+
 ## 🖥 Software Applications
 <table>
   <tr>
-    <th>&nbsp;Jira&nbsp;</th>
     <th>Anaconda</th>
     <th>Adobe Photoshop</th>
     <th>Blender</th>
@@ -146,7 +173,6 @@
     <th>Xcode</th>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></td>
@@ -159,7 +185,6 @@
     <td><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" width="30px" height="30px"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=photoshop&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=blender&theme=dark" width="32px" height="32px"></td>
@@ -167,7 +192,7 @@
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="34px" height="34px"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=unity&theme=dark" width="32px" height="32px"></td>
-    <td align="center"><img src="https://static-00.iconduck.com/assets.00/mysqlworkbench-icon-1024x1014-nnvsz83e.png" width="34px" height="34px"/></td>
+    <td align="center"><img src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" width="34px" height="34px"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="32px" height="32px"></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" width="34px" height="34px" alt="Xcode Icon" /></td>
   </tr>
